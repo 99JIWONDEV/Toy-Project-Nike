@@ -1,4 +1,4 @@
-# 나이키 클론 코딩 
+# 나이키 클론 코딩 (with TailwindCSS)
 ---
 Tailwind를 프로젝트에 써야하는 상황이어서, 빠르게 공부한 TailwindCSS
 
